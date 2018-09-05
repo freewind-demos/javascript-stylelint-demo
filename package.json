@@ -1,4 +1,8 @@
 {
-  "dependencies": {
+  "scripts": {
+    "demo": "stylelint index.css || true"
+  },
+  "devDependencies": {
+    "stylelint": "^9.5.0"
   }
 }
