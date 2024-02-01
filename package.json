@@ -1,8 +1,8 @@
 {
-    "scripts": {
-        "start": "stylelint index.css || true"
-    },
-    "devDependencies": {
-        "stylelint": "^9.5.0"
-    }
+  "scripts": {
+    "start": "stylelint index.css || true"
+  },
+  "devDependencies": {
+    "stylelint": "9.5.0"
+  }
 }
